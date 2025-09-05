@@ -1,6 +1,6 @@
-# WireGuard Manager
+# Auto Wireguard
 
-**WireGuard Manager** is a Bash-based tool for installing, configuring, and managing WireGuard VPN servers and clients.  
+**Auto WireGuard** is a Bash-based tool for installing, configuring, and managing WireGuard VPN servers and clients.  
 It provides an interactive menu to automate routine tasks like installation, server setup, client creation, and cleanup.  
 
 ---
@@ -24,7 +24,7 @@ It provides an interactive menu to automate routine tasks like installation, ser
 Clone the repository and enter the directory:
 
 ```bash
-git clone https://github.com/morgein/wireguard-manager.git
+git clone https://github.com/Morgein/auto-wireguard.git
 cd wireguard-manager
 ```
 
